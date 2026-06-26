@@ -1,5 +1,6 @@
 # 📋 Minhas Tarefas — Lista de Tarefas com Lembretes
 
+
 Aplicativo móvel **Android** desenvolvido em **Kotlin + Jetpack Compose** que permite
 cadastrar atividades do cotidiano (estudo, ingestão de água, exercícios, medicamentos,
 compromissos pessoais, etc.) e receber **notificações locais no horário programado**,
