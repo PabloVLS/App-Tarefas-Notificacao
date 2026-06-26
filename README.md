@@ -109,17 +109,4 @@ app/src/main/java/com/example/tarefas/
 
 ---
 
-## 🎥 Vídeo de demonstração
 
-📺 **YouTube (não listado):** _[adicione aqui o link do seu vídeo]_
-
-O vídeo (até 5 minutos) demonstra:
-- A criação de tarefas;
-- O funcionamento das notificações no horário programado;
-- A alternância entre os temas claro e escuro.
-
----
-
-## 👤 Autor
-
-Projeto acadêmico da disciplina de **Desenvolvimento para Dispositivos Móveis**.
