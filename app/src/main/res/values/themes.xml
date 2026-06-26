@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Tema base do app. O Jetpack Compose desenha toda a interface, então usamos
+        um tema simples e sem ActionBar. As cores reais (claro/escuro) vêm do
+        MaterialTheme do Compose, controladas pelo interruptor na tela.
+    -->
+    <style name="Theme.TarefasApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
